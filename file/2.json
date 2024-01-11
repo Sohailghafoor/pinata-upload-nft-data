@@ -1,0 +1,19 @@
+{
+    "name": "Update",
+    "description": "This is my awesome collection of NFTs.",
+    "creator": "Your Name",
+    "customField1": "Custom Value 1",
+    "customField2": "Custom Value 2",
+    "image": "https://path/to/your/collection/image.jpg",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      }
+    ]
+  }
+  
